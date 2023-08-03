@@ -40,6 +40,9 @@
 
 - [ ] TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs
       Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan [[pdf](https://arxiv.org/abs/2303.16434)]
+
+- [ ] ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models
+      Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen [[pdf](https://arxiv.org/abs/2305.14323)]
       
 - [ ] Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
       Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang [[pdf](https://arxiv.org/abs/2306.07209)]
