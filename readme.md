@@ -11,20 +11,20 @@
       Shuofei Qiao, Honghao Gui, Huajun Chen, Ningyu Zhang [[pdf](https://arxiv.org/pdf/2305.13068.pdf)], [[Code](https://github.com/lucidrains/toolformer-pytorch)]
       
 - [ ] ToolQA: A Dataset for LLM Question Answering with External Tools
-      Yuchen Zhuang, Yue Yu, Kuan Wang, Haotian Sun, Chao Zhang [[pdf(https://arxiv.org/pdf/2306.13304.pdf)]]
+      Yuchen Zhuang, Yue Yu, Kuan Wang, Haotian Sun, Chao Zhang [[pdf](https://arxiv.org/pdf/2306.13304.pdf)]
       
 - [ ] FACTOOL: Factuality Detection in Generative AI A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios
-      I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu [[pdf(https://arxiv.org/pdf/2307.13528.pdf)]]
+      I-Chun Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting Zhou, Junxian He, Graham Neubig, Pengfei Liu [[pdf](https://arxiv.org/pdf/2307.13528.pdf)]
 
 
 ## 任务规划工具
 
 ### 基于Fine-tuning
 - [ ] ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases
-      Qiaoyu Tang, Ziliang Deng, Hongyu Lin, Xianpei Han, Qiao Liang, Le Sun [[pdf(https://arxiv.org/pdf/2306.05301.pdf)]]
+      Qiaoyu Tang, Ziliang Deng, Hongyu Lin, Xianpei Han, Qiao Liang, Le Sun [[pdf](https://arxiv.org/pdf/2306.05301.pdf)]
       
 - [ ] TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS
-      Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun [[pdf(https://arxiv.org/abs/2307.16789)]]
+      Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, Dahai Li, Zhiyuan Liu, Maosong Sun [[pdf](https://arxiv.org/abs/2307.16789)]]
 
 ### 基于Prompt
 - [ ] HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace
@@ -34,13 +34,13 @@
       Yaobo Liang, Chenfei Wu, Ting Song, Wenshan Wu, Yan Xia, Yu Liu, Yang Ou, Shuai Lu, Lei Ji, Shaoguang Mao, Yun Wang, Linjun Shou, Ming Gong, Nan Duan [[pdf](https://arxiv.org/abs/2303.16434)]
       
 - [ ] Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
-      Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang [[pdf(https://arxiv.org/abs/2306.07209)]]
+      Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang [[pdf](https://arxiv.org/abs/2306.07209)]
       
 - [ ] Gorilla: Large Language Model Connected with Massive APIs
-      Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez [[pdf(https://arxiv.org/abs/2305.15334)]]
+      Shishir G. Patil, Tianjun Zhang, Xin Wang, Joseph E. Gonzalez [[pdf](https://arxiv.org/abs/2305.15334)]
       
 - [ ] RestGPT: Connecting Large Language Models with Real-World Applications via RESTful APIs
-      Yifan Song, Weimin Xiong, Dawei Zhu, Cheng Li, Ke Wang, Ye Tian, Sujian Li [[pdf(https://arxiv.org/pdf/2306.06624.pdf)]]
+      Yifan Song, Weimin Xiong, Dawei Zhu, Cheng Li, Ke Wang, Ye Tian, Sujian Li [[pdf](https://arxiv.org/pdf/2306.06624.pdf)]
 
 ## 创造工具
 - [ ] CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation
